@@ -29,7 +29,4 @@ Spring decides *which implementation to inject*.
 
 This design follows the **Dependency Inversion Principle**.
 
----
-
-## Package Structure
 
